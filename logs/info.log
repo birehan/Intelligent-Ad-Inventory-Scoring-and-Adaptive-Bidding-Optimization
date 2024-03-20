@@ -1,0 +1,50 @@
+2024-03-21 01:16:12,702:logger:Error occurred: 'ChatCompletion' object is not subscriptable
+2024-03-21 01:17:47,411:logger:Error occurred: 'ChatCompletion' object is not subscriptable
+2024-03-21 01:19:05,885:logger:Error occurred: 'ChatCompletion' object is not subscriptable
+2024-03-21 01:23:23,841:logger:Generated completion response: Hello! How can I assist you today?
+2024-03-21 01:27:49,370:logger:Generated completion response: 1. Age Groups: Value - "range of ages"
+2. Gender: Value - "biological sex"
+3. Income Bracket: Value - "financial earnings"
+4. Interests: Value - "areas of focus or hobbies that individuals are passionate about"
+5. Specific Groups: Value - "segments of the population with shared characteristics or affiliations"
+6. Contextual Targeting: Value - "content or context of the environment where ads are displayed"
+
+2024-03-21 01:29:21,035:logger:Generated completion response: Sure, I'll extract the value corresponding to each category from the Targeting column:
+
+Age Groups: nan
+Gender: Female
+Income Bracket: High-income
+Interests: nan
+Specific Groups: Millennials
+Contextual Targeting: Lifestyle websites
+2024-03-21 01:30:33,723:logger:Generated completion response: - Age Groups: nan
+- Gender: male, female, male and female
+- Income Bracket: nan
+- Interests: nan
+- Specific Groups: nan
+- Contextual Targeting: nan
+2024-03-21 01:30:57,169:logger:Generated completion response: ```plaintext
+Age Groups: nan
+Gender: Female
+Income Bracket: $50,000 - $75,000
+Interests: Technology, Travel
+Specific Groups: nan
+Contextual Targeting: nan
+```
+2024-03-21 01:31:26,568:logger:Generated completion response: Sure, I can assist with that. Could you please provide me with the text in the Targeting column so that I can extract the values for each of the categories you've mentioned?
+2024-03-21 01:31:33,724:logger:Generated completion response: I'm ready to assist you. Please provide the text from which the values need to be extracted for the categories.
+2024-03-21 01:31:42,338:logger:Generated completion response: Sure! Please provide me with the specific text in the Targeting column so I can extract the values for each category.
+2024-03-21 01:33:34,876:logger:Generated completion response: Age Groups: 25+ YEARS
+Gender: MEN AND WOMEN
+Income Bracket: nan
+Interests: INTERESTED IN LUXURY CARS, ELECTRIC CARS, SUSTAINABILITY AND RENEWABLE ENERGIES
+Specific Groups: nan
+Contextual Targeting: CONTENT RELATED TO ELECTRIC CARS, SUSTAINABILITY, RENEWABLE ENERGY, LUXURY CARS AND BRANDS
+2024-03-21 01:34:41,360:logger:- Age Groups: 25+
+- Gender: Men and Women
+- Income Bracket: nan
+- Interests: Luxury Cars, Electric Cars, Sustainability and Renewable Energies
+- Specific Groups: nan
+- Contextual Targeting: People browsing the web in content related to Electric Cars, Sustainability, Renewable Energy, Luxury Cars and Brands
+2024-03-21 01:35:51,259:logger:chat completion success
+2024-03-21 01:36:26,494:logger:chat completion success
