@@ -1,0 +1,78 @@
+{
+    "classes": [
+      {
+        "class": "inventory_data",
+        "properties": [
+          {
+            "name": "campaign_id",
+            "dataType": ["text"]  
+          },
+          {
+            "name": "KPI",
+            "dataType": ["text"]  
+          },
+          {
+            "name": "geo_targeting",
+            "dataType": ["text"] 
+          },
+          {
+            "name": "vertical",
+            "dataType": ["text"]  
+          },
+          {
+            "name": "targeting",
+            "dataType": ["text"] 
+          },
+          {
+            "name": "game_key",
+            "dataType": ["text"] 
+          },
+          {
+            "name": "adformat",
+            "dataType": ["text"]
+          },
+          {
+            "name": "creative",
+            "dataType": ["text"]
+          },
+          {
+            "name": "renderingcontext",
+            "dataType": ["text"] 
+          },
+          {
+            "name": "osfamily",
+            "dataType": ["text"]
+          },
+          {
+            "name": "devicetype",
+            "dataType": ["text"] 
+          },
+          {
+            "name": "devicemake",
+            "dataType": ["text"]  
+          },
+          {
+            "name": "site_name",
+            "dataType": ["text"] 
+          },
+          {
+            "name": "matchedfoldposition",
+            "dataType": ["text"]
+          },
+          {
+            "name": "browser",
+            "dataType": ["text"]
+          },
+          {
+            "name": "CTR",
+            "dataType": ["number"]  
+          },
+          {
+            "name": "ER",
+            "dataType": ["number"] 
+          }
+        ]
+      }
+    ]
+  }
+  
