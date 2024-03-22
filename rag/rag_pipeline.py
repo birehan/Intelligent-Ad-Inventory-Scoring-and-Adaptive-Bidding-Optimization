@@ -25,7 +25,7 @@ class Rag:
                  vector_store:VectorStoreDbType=VectorStoreDbType.CHROMA,
                  retrieve_type:RetrieverType=RetrieverType.VECTOR_STORE_BACKED,
                  chunking_strategy:ChunkingType=ChunkingType.RECURSIVE,
-                 embedding_model: EmbeddingType=EmbeddingType.OPENAI_EMBEDDING,
+                 embedding_model: EmbeddingType=EmbeddingType.SENTENCE_TRANSFORMER_EMBEDDING,
                  memory_type: MemoryType=MemoryType.CONVERSATION_BUFFER_WINDOW,
                  ):
         
