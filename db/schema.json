@@ -8,19 +8,19 @@
             "dataType": ["text"]  
           },
           {
-            "name": "KPI",
+            "name": "KPI_embeddings",
             "dataType": ["text"]  
           },
           {
-            "name": "geo_targeting",
+            "name": "geo_targeting_embeddings",
             "dataType": ["text"] 
           },
           {
-            "name": "vertical",
+            "name": "vertical_embeddings",
             "dataType": ["text"]  
           },
           {
-            "name": "targeting",
+            "name": "targeting_embeddings",
             "dataType": ["text"] 
           },
           {
@@ -28,39 +28,27 @@
             "dataType": ["text"] 
           },
           {
-            "name": "adformat",
+            "name": "adformat_embeddings",
             "dataType": ["text"]
           },
           {
-            "name": "creative",
+            "name": "creative_embeddings",
             "dataType": ["text"]
           },
           {
-            "name": "renderingcontext",
+            "name": "renderingcontext_embeddings",
             "dataType": ["text"] 
           },
           {
-            "name": "osfamily",
-            "dataType": ["text"]
-          },
-          {
-            "name": "devicetype",
+            "name": "site_name_embeddings",
             "dataType": ["text"] 
           },
           {
-            "name": "devicemake",
-            "dataType": ["text"]  
-          },
-          {
-            "name": "site_name",
-            "dataType": ["text"] 
-          },
-          {
-            "name": "matchedfoldposition",
+            "name": "matchedfoldposition_embeddings",
             "dataType": ["text"]
           },
           {
-            "name": "browser",
+            "name": "browser_embeddings",
             "dataType": ["text"]
           },
           {
