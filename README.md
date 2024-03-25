@@ -31,7 +31,7 @@ The second part introduces an adaptive algorithm for real-time bidding strategy 
 ## Repository Structure
 
 - `notebooks/`: Jupyter notebooks for detailed EDA, feature engineering, and model exploration.
-- `rag/`: Implementation of the Retrieval-Augmented Generation model, including the integration of Cross and Deep Network for performance forecasting.
+- `rag/`: Implementation of the Retrieval-Augmented Generation
 - `scripts/`: Contains helper scripts and utilities to support model development and data processing.
 - `tests/`: Scripts for testing code integrity and functionality.
 
